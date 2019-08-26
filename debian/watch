@@ -1,0 +1,2 @@
+version=3
+https://github.com/Qirky/FoxDot/releases .*/v(\d[\d\.]+)\.tar\.gz
