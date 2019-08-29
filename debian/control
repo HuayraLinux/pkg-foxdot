@@ -8,14 +8,14 @@ Build-Depends:
  python3-all,
  python3-setuptools (>= 0.6.24)
 Standards-Version: 3.9.3
-X-Python-Version: >= 2.7
+X-Python-Version: >= 3
 Homepage: https://github.com/Qirky/FoxDot/
 Vcs-Git: https://github.com/HuayraLinux/pkg-foxdot.git
 Vcs-Browser: https://github.com/HuayraLinux/pkg-foxdot
 
 Package: python3-foxdot
 Architecture: all
-Depends: ${shlibs:Depends}, ${python3:Depends},
+Depends: ${shlibs:Depends}, ${python3:Depends}
 Description: Python driven environment for Live Coding - Python 3
  FoxDot is a Python programming environment that provides a fast and
  user-friendly abstraction to SuperCollider. It also comes with its own IDE,

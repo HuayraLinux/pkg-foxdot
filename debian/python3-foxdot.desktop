@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=FoxDot
+Comment=Live coding with Python and SuperCollider
+Exec=/usr/bin/FoxDot
+Terminal=false
+Type=Application
+Categories=AudioVideo;Audio;
+Icon=/usr/share/pixmaps/foxdot.png

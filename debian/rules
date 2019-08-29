@@ -9,6 +9,8 @@ override_dh_auto_test:
 override_dh_auto_clean:
 
 override_dh_auto_configure:
-	echo "Test" > README.md
+	# fix termporal hasta corregir el problema de enconding
+	mv README.md README.orig.md
+	echo "See README.orig.md" > README.md
 	dh_auto_configure
 

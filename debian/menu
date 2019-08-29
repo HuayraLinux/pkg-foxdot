@@ -1,7 +1,0 @@
-?package(python-foxdot):\
-	needs="X11" \
-	section="Sound" \
-	title="FoxDot" \
-	command="python -m FoxDot" \
-	hints="FoxDot" \
-	icon="/usr/share/pixmaps/ag.png"
