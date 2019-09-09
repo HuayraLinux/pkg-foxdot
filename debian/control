@@ -15,7 +15,8 @@ Vcs-Browser: https://github.com/HuayraLinux/pkg-foxdot
 
 Package: python3-foxdot
 Architecture: all
-Depends: ${shlibs:Depends}, ${python3:Depends}, sc3-plugins (>= 3.7), supercollider (>= 3.7)
+Depends: ${shlibs:Depends}, ${python3:Depends}, supercollider (>= 3.7)
+Recommends: sc3-plugins (>= 3.7)
 Description: Python driven environment for Live Coding - Python 3
  FoxDot is a Python programming environment that provides a fast and
  user-friendly abstraction to SuperCollider. It also comes with its own IDE,
