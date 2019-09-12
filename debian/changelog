@@ -1,3 +1,9 @@
+python-foxdot (0.8.1-2) unstable; urgency=medium
+
+  * Agregando dependencia de TK 
+
+ -- Fernando Toledo <ragnarok@docksud.com.ar>  Thu, 12 Sep 2019 15:30:35 -0300
+
 python-foxdot (0.8.1-1) unstable; urgency=medium
 
   * Initial release.
