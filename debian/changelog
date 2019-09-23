@@ -1,3 +1,9 @@
+python-foxdot (0.8.1-3) unstable; urgency=medium
+
+  * Agregando dependecia de quarks
+
+ -- Fernando Toledo <ragnarok@docksud.com.ar>  Mon, 23 Sep 2019 15:34:40 -0300
+
 python-foxdot (0.8.1-2) unstable; urgency=medium
 
   * Agregando dependencia de TK 

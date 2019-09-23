@@ -18,7 +18,7 @@ Architecture: all
 Depends: ${shlibs:Depends}, ${python3:Depends}, 
  supercollider (>= 3.7),
  python3-tk (>= 3.5)
-Recommends: sc3-plugins (>= 3.7)
+Recommends: sc3-plugins (>= 3.7), sc3-foxdot-quarks (>= 1.0)
 Description: Python driven environment for Live Coding - Python 3
  FoxDot is a Python programming environment that provides a fast and
  user-friendly abstraction to SuperCollider. It also comes with its own IDE,
